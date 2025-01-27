@@ -1,0 +1,5 @@
+1 Mouse 20 5
+2 keyboard 50 10
+3 charger 150 3
+4 headset 200 30
+5 plugbox 80 8
